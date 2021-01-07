@@ -79,3 +79,6 @@ const handleClick = () => {
 d3.selectAll('#submit').on('click', handleClick)
 buildTable(tableData)
 ```
+
+### UFO Table
+![table](UFO-level-1/static/images/UFO_Sightings.png)
