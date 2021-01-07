@@ -2,7 +2,7 @@ const tableData = data
 const tbody = d3.select('tbody')
 let filters = {}
 
-
+//function to build table
 function buildTable(data) {
     tbody.html('')  // Clear existing data
 
