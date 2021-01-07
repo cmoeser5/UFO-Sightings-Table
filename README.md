@@ -82,3 +82,8 @@ buildTable(tableData)
 
 ### UFO Table
 ![table](UFO-level-1/static/images/UFO_Sightings.png)
+
+### Filtered Table 
+Table is shown filtered for Fresno.
+
+![filtered](UFO-level-1/static/images/filter.png)
