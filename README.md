@@ -1,8 +1,7 @@
-# javascript-challenge
+# UFO Sightings Database Table
 
 ## Background
-Provided with a dataset of UFO sightings, create a dynamic table that will filter and show
-data based on user input.
+Utilized a dataset of UFO sightings to create a dynamic table that will filter and show data based on user input.
 
 ## Technologies Used
 * JavaScript
@@ -10,13 +9,8 @@ data based on user input.
 * HTML
 * CSS
 
-## Objectives
-* UFO Level 1: Automatic Table and Date Search using a date form in the HTML document and write JavaScript code that will listen for events and search through the date/time column to tind rows that match user input.
-
-* UFO Level 2: Multiple Search Categories Using multiple input tags, write JavaScript code so the user can set multiple filters and search for UFO sightings based on the following table columns: date, city, state, country, shape (of UFO).
-
-### UFO Level 1 and Level 2
-Multiple fields were created to allow the user to search and filter the data
+### UFO Database
+Created a multiple category searcg table that uses multiple input tags so the use can set different filters to search UFO sightings. The filters include: date, city, state, country, and shape (of UFO).
 
 ```js
 //function to build table
